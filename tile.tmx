@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.1" orientation="orthogonal" renderorder="right-down" width="14" height="28" tilewidth="64" tileheight="64" infinite="0" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" name="planes" tilewidth="64" tileheight="69" tilecount="1" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="64" height="69" source="en.png"/>
+  </tile>
+ </tileset>
+ <tileset firstgid="2" name="island" tilewidth="233" tileheight="212" tilecount="1" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="233" height="212" source="island.png"/>
+  </tile>
+ </tileset>
+ <layer id="2" name="islands" width="14" height="28">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF5AAmBoYDA+2GUUA7AIzfhoF2wyigDWAaaAdQCIDuX0AvuwCJWwHp
+  </data>
+ </layer>
+ <layer id="1" name="planes" width="14" height="28">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF9ACMDAwOA+2G4QxGcviOZL+PAtoCAKlqAMQ=
+  </data>
+ </layer>
+</map>

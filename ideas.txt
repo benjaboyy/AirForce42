@@ -1,0 +1,3 @@
+https://arcade.academy/examples/sprite_bullets_enemy_aims.html#sprite-bullets-enemy-aims
+https://arcade.academy/examples/sprite_follow_simple.html#sprite-follow-simple
+https://arcade.academy/examples/sprite_move_angle.html#sprite-move-angle
